@@ -2,7 +2,7 @@ body{
 	font-family: Verdana, Calibri, sans-serif;
 	margin: 0px;
 	padding: 0px;
-	background-color: red;
+	background-color: #33FFE0;
 }
 
 /*On utilise "<" pour ne cibler que la liste ul qui est un enfant directe nav*/
