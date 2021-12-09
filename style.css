@@ -3,6 +3,7 @@ body{
 	margin: 0px;
 	padding: 0px;
 	background-image: url(image6.gif);
+	background-size: 100%;
 }
 
 /*On utilise "<" pour ne cibler que la liste ul qui est un enfant directe nav*/
