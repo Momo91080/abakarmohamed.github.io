@@ -188,7 +188,14 @@ nav input[type=checkbox]:checked ~ ul{
 
 .menu-site5:submenu
 	{
-		background-color: purple
+		background-color: purple;
 	}
-
+.menu-site6:submenu
+	{
+		background-color: purple;
+	}
+	.menu-site7:submenu
+	{
+		background-color: purple;
+	}
 
