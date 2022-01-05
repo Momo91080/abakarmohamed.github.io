@@ -6,8 +6,6 @@ body{
 	background-size: 100%;
 }
 
-/*On utilise "<" pour ne cibler que la liste ul qui est un enfant directe nav*/
-
 nav > ul{
 	margin: 0px;
 	padding: 0px;
