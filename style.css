@@ -2,8 +2,8 @@ body{
 	font-family: Verdana, Calibri, sans-serif;
 	margin: 0px;
 	padding: 0px;
-	background-image: url(image7.gif);
-	background-size: 99%;
+	background-image: url(image15.jpg);
+	background-size: 100%;
 }
 
 /*On utilise "<" pour ne cibler que la liste ul qui est un enfant directe nav*/
@@ -108,18 +108,41 @@ nav li:hover .submenu{
 	background-color: RGBa(220, 220 ,220, 0.15);
 }
 
+.menu-site5:hover
+{
+	border-top : 5px rgb solid;
+	background-color : rgba(130, 190, 75,0.15) ;
+}
+.menu-site4 .submenu
+{
+	background-color: #8600D8;
+}
+.menu-site5 .submenu
+{
+	background-color:  #8600D8;
+}
+.menu-site6 .submenu
+{
+	background-color:  #8600D8;
+}
+
+.menu-site7 .submenu
+{
+	background-color:  #8600D8;
+}
+
 nav > ul > li:hover a{
 	padding: 15px 30px 20px 30px; 
 }
 
 .menu-site1 .submenu{
-	background-color: RGB(230, 100, 40);
+	background-color:#8600D8 ;
 }
 .menu-site2 .submenu{
-	background-color: rgb(000, 160, 240);
+	background-color:#8600D8;
 }
 .menu-site3 .submenu{
-	background-color: rgb(251, 216, 99);
+	background-color: #8600D8;
 }
 
 .submenu li:hover a{
@@ -128,15 +151,15 @@ nav > ul > li:hover a{
 }
 
 .menu-site1 .submenu li:hover{
-	background-color: rgb(210, 77, 60);
+	background-color: #8600D8;
 }
 
 .menu-site2 ;submenu li:hover{
-	background-color: rgb(000, 115, 200);
+	background-color: #8600D8;
 }
 
 .menu-site3 .submenu li:hover{
-	background-color: rgb(200, 165, 75);
+	background-color: #8600D8;
 }
 
 .menu-mobile{
@@ -179,29 +202,3 @@ nav input[type=checkbox]:checked ~ ul{
 		display: block;
 		position: static;
 	}
-.menu-site4:hover
-{
-	border-top : 5px rgb solide (130, 190, 75);
-	background-color : rgba(130, 190, 75,0.15) ;
-}
-.menu-site4 .submenu
-{
-	background-color: #fbd863;
-}
-.menu-site5 .submenu
-{
-	background-color: rgb(50, 250, 160);
-}
-.menu-site6 .submenu
-{
-	background-color: rgb(160, 220, 105);
-}
-
-.menu-site7 .submenu
-{
-	background-color: rgb(255, 0, 0);
-}
-
-
-
-
